@@ -1,0 +1,10 @@
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\bin\Debug\piano.exe.config
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\bin\Debug\piano.exe
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\bin\Debug\piano.pdb
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\obj\Debug\piano.csprojAssemblyReference.cache
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\obj\Debug\piano.Form1.resources
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\obj\Debug\piano.Properties.Resources.resources
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\obj\Debug\piano.csproj.GenerateResource.cache
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\obj\Debug\piano.csproj.CoreCompileInputs.cache
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\obj\Debug\piano.exe
+C:\Users\kcw11\source\Kenneth_Weeks_cs680_final_project_piano\piano\obj\Debug\piano.pdb
